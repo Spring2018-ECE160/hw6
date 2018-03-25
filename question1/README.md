@@ -1,6 +1,6 @@
 ## Question 1
 
-Write a funciton that determines the maximum and minimum values from a one-dimensional array. Assume that the corresponding function prototype statement is
+Write a function that determines the maximum and minimum values from a one-dimensional array. Assume that the corresponding function prototype statement is
 
 <code>void ranges(int x[], int npts, int *max_ptr, int *min_ptr)</code>
 
